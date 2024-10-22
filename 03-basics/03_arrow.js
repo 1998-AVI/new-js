@@ -36,5 +36,5 @@ const user ={
 // const addTwo =(num1,num2) => num1 +num2 // implicit return
 // const addTwo =(num1,num2) => (num1 +num2)  
 
-const addTwo =(num1,num2) =>({username:"AVIJTI"})
+const addTwo =(num1,num2) =>({username:"AVIJTI"}) 
 console.log(addTwo(5,6));
